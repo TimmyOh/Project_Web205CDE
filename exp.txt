@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>TWICE Fan Page</title>
+	
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Cabin:700' rel='stylesheet' type='text/css'>
+
+    <!-- Custom styles for this template -->
+    <link href="css/grayscale.css" rel="stylesheet">
+
+  </head>
+
+  <body id="page-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">TWICE Fan Page</a>
+		<img src="twice_lg.png" alt="Twice logo" width="100" height="100">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          Menu
+          <i class="fa fa-bars"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+		  <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#team">Team</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#songs">Songs</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#gallaries">Gallaries</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#register">Register</a>
+            </li>
+			<li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#merchandise">Album & Merchandise</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Intro Header -->
+    <header class="masthead">
+      <div class="intro-body">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <p class="intro-text">This web page have all the information about Twice which include Profile, Songs and also Merchandise.
+				Users can also register for becoming Once, which means the fans of Twice.
+				<br>This webpage is created on 19 September. Created by TWICE Fan Club.</p>
+              <a href="#about" class="btn btn-circle js-scroll-trigger">
+                <i class="fa fa-angle-double-down animated"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- About Section -->
+    <section id="team" class="content-section text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+            <h2>Team</h2>
+			<p align="center"> <img src="nayeon.jpg"  alt="" width="300" height="400">
+			
+            <p>Name: Im Na yeon<br></p>
+			<p>Nationality: Korean<br></p>
+			<p>Position: Lead Vocalist, Center<br></p>
+			<p>Birthday: September 22, 1995<br></p>
+			<p>Zodiac Sign: Virgo<br></p>
+			<p>Height: 163 cm/ 5’4″<br></p>
+			<p>Weight: 47 kg<br></p>
+			<p>Blood Type: A<br></p>
+            
+			<p align="center"> <img src="jy.jpg"  alt="" width="300" height="400">
+			
+            <p>Name: Yoo Jung Yeon<br></p>
+			<p>Nationality: Korean<br></p>
+			<p>Position: Lead Vocalist<br></p>
+			<p>Birthday: November 1, 1996<br></p>
+			<p>Zodiac Sign: Scorpio<br></p>
+			<p>Height: 169 cm/ 5’7″<br></p>
+			<p>Weight: 49 kg<br></p>
+			<p>Blood Type: O<br></p>
+			
+			<p align="center"> <img src="momo.jpg"  alt="" width="300" height="400">
+			
+            <p>Name: Hirai Momo<br></p>
+			<p>Nationality: Japanese<br></p>
+			<p>Position: Main Dancer, Vocalist, Rapper<br></p>
+			<p>Birthday: November 9, 1996<br></p>
+			<p>Zodiac Sign: Scorpio<br></p>
+			<p>Height: 163 cm/ 5’4″<br></p>
+			<p>Weight: 48 kg<br></p>
+			<p>Blood Type: A<br></p>
+			
+			<p align="center"> <img src="sana.jpg"  alt="" width="300" height="400">
+			
+            <p>Name: Minatozaki Sana<br></p>
+			<p>Nationality: Japanese<br></p>
+			<p>Position: Lead Dancer, Vocalist<br></p>
+			<p>Birthday: December 29, 1996<br></p>
+			<p>Zodiac Sign: Capricorn<br></p>
+			<p>Height: 165 cm/ 5’5″<br></p>
+			<p>Weight: 48 kg<br></p>
+			<p>Blood Type: B<br></p>
+			
+			<p align="center"> <img src="jihyo.jpg"  alt="" width="300" height="400">
+			
+            <p>Name: Park Ji Soo<br></p>
+			<p>Nationality: Korean<br></p>
+			<p>Position: Leader, Main Vocalist<br></p>
+			<p>Birthday: February 1, 1997<br></p>
+			<p>Zodiac Sign: Aquarius<br></p>
+			<p>Height: 160 cm/ 5’3″<br></p>
+			<p>Weight: 49 kg<br></p>
+			<p>Blood Type: O<br></p>
+			
+			<p align="center"> <img src="mina.jpg"  alt="" width="300" height="400">
+			
+            <p>Name: Myoui Mina<br></p>
+			<p>Nationality: Japanese<br></p>
+			<p>Position: Lead Dancer, Vocalist<br></p>
+			<p>Birthday: March 24, 1997<br></p>
+			<p>Zodiac Sign: Aries<br></p>
+			<p>Height: 165 cm/ 5’5″<br></p>
+			<p>Weight: 46 kg<br></p>
+			<p>Blood Type: A<br></p>
+			
+			<p align="center"> <img src="dahyun.jpg"  alt="" width="300" height="400">
+			
+            <p>Name: Kim Da Hyun<br></p>
+			<p>Nationality: Korean<br></p>
+			<p>Position: Lead Rapper, Vocalist<br></p>
+			<p>Birthday: May 28, 1998<br></p>
+			<p>Zodiac Sign: Gemini<br></p>
+			<p>Height: 159 cm/ 5’3″<br></p>
+			<p>Weight: 49 kg<br></p>
+			<p>Blood Type: O<br></p>
+			
+			<p align="center"> <img src="cy.jpg"  alt="" width="300" height="400">
+			
+            <p>Name: Son Chae Young<br></p>
+			<p>Nationality: Korean<br></p>
+			<p>Position: Main Rapper, Vocalist<br></p>
+			<p>Birthday:  April 23, 1999<br></p>
+			<p>Zodiac Sign: Taurus<br></p>
+			<p>Height: 159 cm/ 5’3″<br></p>
+			<p>Weight: 48 kg<br></p>
+			<p>Blood Type: B<br></p>
+			
+			<p align="center"> <img src="tzuyu.jpg"  alt="" width="300" height="400">
+			
+            <p>Name: Chou Tzuyu<br></p>
+			<p>Nationality: Taiwanese<br></p>
+			<p>Position: Vocalist, Dancer<br></p>
+			<p>Birthday: June 14, 1999<br></p>
+			<p>Zodiac Sign: Gemini<br></p>
+			<p>Height: 172 cm/ 5’8″<br></p>
+			<p>Weight: 48 kg<br></p>
+			<p>Blood Type: A<br></p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Download Section -->
+    <section id="gallaries" class="download-section content-section text-center">
+      <div class="container">
+        <div class="col-lg-8 mx-auto">
+          <h2>Gallaries</h2>
+          <p align="left">TWICE Group Photo</p>
+		  <!--<a href ="group1.jpg">-->
+		  <p><a href ="group1.jpg"> <img align="left" src="group1.jpg" alt="" width="600" height="300">
+		  <p><a href ="group2.jpg"> <img align="left" src="group2.jpg" alt="" width="600" height="300">
+		  <p><a href ="group3.jpg"> <img align="left" src="group3.jpg" alt="" width="600" height="300">
+		  <p><a href ="group4.jpg"> <img align="left" src="group4.jpg" alt="" width="600" height="300">
+		  <p><a href ="group5.jpg"> <img align="left" src="group5.jpg" alt="" width="600" height="300">
+		  <p><a href ="group6.jpg"> <img align="left" src="group6.jpg" alt="" width="600" height="300">
+		  <p><a href ="group7.jpg"> <img align="left" src="group7.jpg" alt="" width="600" height="300">
+		  <p><a href ="group8.jpg"> <img align="left" src="group8.jpg" alt="" width="600" height="300">
+        </div>
+      </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="content-section text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+            <h2>TWICE Offical Accounts</h2>
+            <ul class="list-inline banner-social-buttons">
+              <li class="list-inline-item">
+                <a href="https://twitter.com/JYPETWICE" class="btn btn-default btn-lg">
+                  <i class="fa fa-twitter fa-fw"></i>
+                  <span class="network-name">Twitter</span>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="https://www.instagram.com/twicetagram/" class="btn btn-default btn-lg">
+                  <i class="fa fa-instagram fa-fw"></i>
+                  <span class="network-name">Instagram</span>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="https://www.facebook.com/JYPETWICE/" class="btn btn-default btn-lg">
+                  <i class="fa fa-facebook fa-fw"></i>
+                  <span class="network-name">Facebook</span>
+                </a>
+              </li>
+			  <li class="list-inline-item">
+                <a href="https://www.youtube.com/playlist?list=PL9K3xwFkFqWGEVTB3QNRQ1wgxF6Y-DMOX" class="btn btn-default btn-lg">
+                  <i class="fa fa-youtube fa-fw"></i>
+                  <span class="network-name">Youtube</span>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+      <div class="container text-center">
+        <p>Copyright &copy; TWICE Fan Page 2017</p>
+      </div>
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="js/grayscale.min.js"></script>
+
+  </body>
+
+</html>
