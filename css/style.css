@@ -1,0 +1,34 @@
+.textarea_com{
+	width:815px; 
+	height:80px; 
+	background-color:#fff;
+	resize:none;
+}
+
+.button_com {
+	width:150px;
+	height:30px;
+	background-color:#282828; 
+	border:none; 
+	color:#fff; 
+	font-family:arial; 
+	font-weight:400; 
+	cursor: pointer;
+	margin-bottom: 60px;
+}
+
+.comment-box{
+	width:815px;
+	padding:10px;
+	margin-bottom:4px;
+	background-color:#fff;
+	border-radius:4px;
+}
+
+.comment-box p{
+	font-family: Arial Black;
+	font-size: 14px;
+	line-height: 16px;
+	color: #282828;
+	font-weight: 100;
+}
